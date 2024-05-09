@@ -4842,6 +4842,8 @@ The Lead Senior Watson signed off on the fix.
 
 Source: https://github.com/sherlock-audit/2024-02-perpetual-judging/issues/121 
 
+The protocol has acknowledged this issue.
+
 ## Found by 
 0xRobocop, Bauer, IllIllI, PUSH0, ni8mare
 ## Summary
@@ -6085,6 +6087,8 @@ Also in the beginning we only allow whitelisted users to deposit to maker.
 # Issue M-12: Loss of funds for trader because whitelisted maker can't be liquidated 
 
 Source: https://github.com/sherlock-audit/2024-02-perpetual-judging/issues/140 
+
+The protocol has acknowledged this issue.
 
 ## Found by 
 0xumarkhatab, ge6a, santipu\_
